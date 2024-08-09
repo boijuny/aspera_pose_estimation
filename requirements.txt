@@ -1,0 +1,14 @@
+mathutils==3.3.0
+matplotlib==3.8.3
+numpy==1.26.4
+opencv_python==4.9.0.80
+opencv_python_headless==4.9.0.80
+pandas==2.2.2
+Pillow==10.3.0
+pycocotools==2.0.7
+PyYAML==6.0.1
+PyYAML==6.0.1
+torch==2.3.1
+ultralytics==8.2.22
+pyquaternion>=0.9.5
+ipykernel>=6.0.0

@@ -1,0 +1,3 @@
+[submodule "lib/lava1302"]
+	path = lib/lava1302
+	url = https://github.com/willer94/lava1302.git
